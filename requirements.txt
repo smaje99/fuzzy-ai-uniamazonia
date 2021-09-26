@@ -1,3 +1,4 @@
 ipykernel==6.4.1
 numpy==1.21.2
 scikit-fuzzy==0.4.2
+matplotlib==3.4.3
